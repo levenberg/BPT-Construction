@@ -1,5 +1,5 @@
 *This is an source code for the CBPT construction and local color, texture and structure descriptors extraction described in
-@article{Yu2016A,
+@article{Yu2016A,  <br />
   title={A Color-Texture-Structure Descriptor for High-Resolution Satellite Image Classification}, <br />
   author={Yu, Huai and Yang, Wen and Xia, Gui Song and Liu, Gang }, <br />
   journal={Remote Sensing}, <br />
