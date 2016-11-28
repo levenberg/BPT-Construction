@@ -17,7 +17,7 @@ T** malloc_Array2D(int row, int col)
 		while (row--)
 			arr[row] = (T*)((int)head + row * col * size);
 	}
-	return (T**)arr;
+	 return (T**)arr;
 }
 //释放二维数组
 void free_Aarray2D(void **arr)
