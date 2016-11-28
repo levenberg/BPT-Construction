@@ -9,7 +9,7 @@
 #include <time.h>
 #include <queue>
 #include "array2d.h"
-using namespace std;
+ using namespace std;
 
 int indreg = 0;
 int method = 2;
