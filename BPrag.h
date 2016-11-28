@@ -1,5 +1,5 @@
 #pragma once
-
+//two nodes comparison
 class BPrag
 {
 public:
