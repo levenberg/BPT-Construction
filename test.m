@@ -1,4 +1,6 @@
 function calculate()
+%This is the demo for BPT construction and color-texture-structure feature
+%extraction
 clc
 clear all;
 I=imread('airplane.tif');
